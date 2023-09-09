@@ -142,8 +142,8 @@ if uploaded_file:
             buffered = BytesIO()
             plt.imshow(wordcloud, interpolation='bilinear')
             plt.axis('off')
-            plt.savefig(buffered, format=format_, dpi=resolution)
-            st.markdown(get_image_download_link(buffered, format_), unsafe_allow_html=True)
+           plt.savefig(buffered, format=format_, dpi=resolution)
+           st.markdown(get_image_download_link(buffered, format_), unsafe_allow_html=True)
 
         # Create tabs for visualization types (Bar Chart and Pie Chart)
         st.header("Visualize Your Data")
