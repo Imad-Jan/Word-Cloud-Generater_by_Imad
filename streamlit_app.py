@@ -183,5 +183,5 @@ if uploaded_file:
            
         
 
-else:
-        st.write("No text found in the uploaded file.")
+# else:
+#         st.write("No text found in the uploaded file.")
