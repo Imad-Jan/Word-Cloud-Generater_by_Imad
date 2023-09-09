@@ -9,7 +9,7 @@ import plotly.express as px
 import base64
 from io import BytesIO
 from collections import Counter
-import kaleido.plotly as kaleido
+
 
 # Functions for file reading
 def read_txt(file):
