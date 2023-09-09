@@ -6,3 +6,5 @@ matplotlib
 PyPDF2
 python-docx
 plotly
+kaleido
+
