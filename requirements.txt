@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+wordcloud
+matplotlib
+PyPDF2
+python-docx
+plotly
