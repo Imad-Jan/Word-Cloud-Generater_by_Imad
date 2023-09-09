@@ -1,6 +1,8 @@
 # Word Cloud Generator
 
 Generate word clouds from PDF, Docx, or Text files with this Streamlit-based application.
+
+
 [Live Demo](https://word-cloud-generater-by-imad.streamlit.app/)
 ![Word Cloud Generator](Screenshot.png)
 
